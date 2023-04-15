@@ -28,7 +28,7 @@ simulators.
 Navigraph
 LittleNavMap
 
-[VPC Configuration Tool]:https://support.virpil.com/en/support/solutions/folders/47000015618
+[VPC Software]:https://support.virpil.com/en/support/solutions/folders/47000015618
 [Flight-Tracker-Streamdeck]: https://github.com/nguyenquyhy/Flight-Tracker-StreamDeck
 [DCS Interface]: https://github.com/enertial/streamdeck-dcs-interface
 [Mobiflight]: https://www.mobiflight.com/en/index.html
